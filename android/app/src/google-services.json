@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152685161687",
+    "project_id": "emergency-9394f",
+    "storage_bucket": "emergency-9394f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152685161687:android:37d41f45519f9a3743d492",
+        "android_client_info": {
+          "package_name": "com.example.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152685161687-j2hqigresqpeckmdhbvnf3eck5l53t63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4rMSjVtRmYXRwkfmtG0fJIobxo8h3Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152685161687-j2hqigresqpeckmdhbvnf3eck5l53t63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
